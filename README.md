@@ -1,5 +1,6 @@
 # Create-Classes
- A tool that lets you create number of script assets.
+
+A Unity tool that lets you create number of script assets.
 
 Supported Unity Versions : 2019.1+
 
