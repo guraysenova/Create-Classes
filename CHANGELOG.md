@@ -8,3 +8,5 @@ You can now create:
 * C# Enum
 * C# Interface
 * C# Struct
+
+within the editor.
