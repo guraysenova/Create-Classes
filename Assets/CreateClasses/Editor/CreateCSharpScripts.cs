@@ -39,7 +39,7 @@ namespace CreateClasses
         }
         #endregion
 
-        #region Struct
+        #region STRUCT
         private const string structTemplate = "Struct.cs.txt";
 
         [MenuItem(itemName: "Assets/Create/C# Struct", isValidateFunction: false, priority: 51)]
