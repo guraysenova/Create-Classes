@@ -8,6 +8,7 @@ Unity Package : https://github.com/guraysenova/Create-Classes/releases/download/
 LATEST CHANGE-LOG
 
 [0.2] - 2021-03-28
+
 Added the ability to create ;
 
     C# Empty Unity Script
